@@ -16,7 +16,7 @@ public class LogIn extends ActionBarActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_log_in);
+		setContentView(R.layout.log_in);
 
 		if (savedInstanceState == null) {
 			getSupportFragmentManager().beginTransaction()
@@ -55,7 +55,7 @@ public class LogIn extends ActionBarActivity {
 		@Override
 		public View onCreateView(LayoutInflater inflater, ViewGroup container,
 				Bundle savedInstanceState) {
-			View rootView = inflater.inflate(R.layout.fragment_log_in,
+			View rootView = inflater.inflate(R.layout.log_in,
 					container, false);
 			return rootView;
 		}

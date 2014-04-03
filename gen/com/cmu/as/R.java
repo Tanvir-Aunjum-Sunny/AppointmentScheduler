@@ -1096,9 +1096,19 @@ containing a value of this type.
         public static final int abc_popup_menu_item_layout=0x7f030014;
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
-        public static final int activity_log_in=0x7f030017;
-        public static final int fragment_log_in=0x7f030018;
-        public static final int support_simple_spinner_dropdown_item=0x7f030019;
+        public static final int fragment_log_in=0x7f030017;
+        public static final int future=0x7f030018;
+        public static final int future_detail=0x7f030019;
+        public static final int info=0x7f03001a;
+        public static final int location=0x7f03001b;
+        public static final int log_in=0x7f03001c;
+        public static final int past=0x7f03001d;
+        public static final int past_detail=0x7f03001e;
+        public static final int past_documets=0x7f03001f;
+        public static final int select_date=0x7f030020;
+        public static final int select_doc=0x7f030021;
+        public static final int select_hos=0x7f030022;
+        public static final int support_simple_spinner_dropdown_item=0x7f030023;
     }
     public static final class menu {
         public static final int log_in=0x7f0c0000;
