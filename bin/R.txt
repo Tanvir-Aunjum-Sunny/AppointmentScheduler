@@ -238,7 +238,7 @@ int id action_context_bar 0x7f05001d
 int id action_menu_divider 0x7f050016
 int id action_menu_presenter 0x7f050017
 int id action_mode_close_button 0x7f050024
-int id action_settings 0x7f050044
+int id action_settings 0x7f050045
 int id activity_chooser_view_content 0x7f050025
 int id always 0x7f05000b
 int id beginning 0x7f050011
@@ -284,6 +284,7 @@ int id shortcut 0x7f05002e
 int id showCustom 0x7f050007
 int id showHome 0x7f050004
 int id showTitle 0x7f050006
+int id spinner1 0x7f050044
 int id split_action_bar 0x7f05001e
 int id submit_area 0x7f050039
 int id tabMode 0x7f050002
@@ -334,6 +335,9 @@ int layout select_doc 0x7f030021
 int layout select_hos 0x7f030022
 int layout support_simple_spinner_dropdown_item 0x7f030023
 int menu log_in 0x7f0c0000
+int string 1 Mile 0x7f0a000d
+int string 2 Mile 0x7f0a000e
+int string 3 Mile 0x7f0a000f
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_up_description 0x7f0a0002
 int string abc_action_menu_overflow_description 0x7f0a0003
@@ -347,9 +351,9 @@ int string abc_searchview_description_submit 0x7f0a0007
 int string abc_searchview_description_voice 0x7f0a0008
 int string abc_shareactionprovider_share_with 0x7f0a000c
 int string abc_shareactionprovider_share_with_application 0x7f0a000b
-int string action_settings 0x7f0a000f
-int string app_name 0x7f0a000d
-int string hello_world 0x7f0a000e
+int string action_settings 0x7f0a0012
+int string app_name 0x7f0a0010
+int string hello_world 0x7f0a0011
 int style AppBaseTheme 0x7f0b0083
 int style AppTheme 0x7f0b0084
 int style TextAppearance_AppCompat_Base_CompactMenu_Dialog 0x7f0b0063
