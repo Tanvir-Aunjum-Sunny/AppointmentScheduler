@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timeSpinner">
+
+    <item name="12:00pm"></item>>
+    <item name="13:30pm">Hello world!</item>
+    <item name="15:00pm">Settings</item>
+
+    </string-array>
+</resources>

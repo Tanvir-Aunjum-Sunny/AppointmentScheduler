@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <activity android:name="com.cmu.as.SelectHos"></activity>
+        <activity android:name="com.cmu.as.SelectHosManually"></activity>
+        <activity android:name="com.cmu.as.SelectDoc"></activity>
+        <activity android:name="com.cmu.as.SelectDate"></activity>
+        
+        
+        
     </application>
 
 </manifest>

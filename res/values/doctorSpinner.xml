@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doctorSpinner">
+
+    <item name="doctor1"></item>>
+    <item name="doctor3">Hello world!</item>
+    <item name="doctor5">Settings</item>
+
+    </string-array>
+</resources>

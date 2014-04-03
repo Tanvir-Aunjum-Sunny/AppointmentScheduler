@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dateSpinner">
+
+    <item name="Apr 5, 2014"></item>>
+    <item name="Apr 6, 2014">Hello world!</item>
+    <item name="Apr 7, 2014">Settings</item>
+
+    </string-array>
+</resources>
