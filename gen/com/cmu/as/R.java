@@ -16,6 +16,9 @@ public final class R {
         public static final int abc_slide_out_bottom=0x7f040004;
         public static final int abc_slide_out_top=0x7f040005;
     }
+    public static final class array {
+        public static final int hosSpinner=0x7f0c0000;
+    }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 
          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -1119,12 +1122,9 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f030023;
     }
     public static final class menu {
-        public static final int log_in=0x7f0c0000;
+        public static final int log_in=0x7f0d0000;
     }
     public static final class string {
-        public static final int 1 Mile=0x7f0a000d;
-        public static final int 2 Mile=0x7f0a000e;
-        public static final int 3 Mile=0x7f0a000f;
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
          */
         public static final int abc_action_bar_home_description=0x7f0a0001;
@@ -1165,9 +1165,9 @@ containing a value of this type.
         /**  Description of a share target (both in the list of such or the default share button) in a ShareActionProvider (share UI). [CHAR LIMIT=NONE] 
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
-        public static final int action_settings=0x7f0a0012;
-        public static final int app_name=0x7f0a0010;
-        public static final int hello_world=0x7f0a0011;
+        public static final int action_settings=0x7f0a000f;
+        public static final int app_name=0x7f0a000d;
+        public static final int hello_world=0x7f0a000e;
     }
     public static final class style {
         /** 

@@ -4,6 +4,7 @@ int anim abc_slide_in_bottom 0x7f040002
 int anim abc_slide_in_top 0x7f040003
 int anim abc_slide_out_bottom 0x7f040004
 int anim abc_slide_out_top 0x7f040005
+int array hosSpinner 0x7f0c0000
 int attr actionBarDivider 0x7f01000b
 int attr actionBarItemBackground 0x7f01000c
 int attr actionBarSize 0x7f01000a
@@ -334,10 +335,7 @@ int layout select_date 0x7f030020
 int layout select_doc 0x7f030021
 int layout select_hos 0x7f030022
 int layout support_simple_spinner_dropdown_item 0x7f030023
-int menu log_in 0x7f0c0000
-int string 1 Mile 0x7f0a000d
-int string 2 Mile 0x7f0a000e
-int string 3 Mile 0x7f0a000f
+int menu log_in 0x7f0d0000
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_up_description 0x7f0a0002
 int string abc_action_menu_overflow_description 0x7f0a0003
@@ -351,9 +349,9 @@ int string abc_searchview_description_submit 0x7f0a0007
 int string abc_searchview_description_voice 0x7f0a0008
 int string abc_shareactionprovider_share_with 0x7f0a000c
 int string abc_shareactionprovider_share_with_application 0x7f0a000b
-int string action_settings 0x7f0a0012
-int string app_name 0x7f0a0010
-int string hello_world 0x7f0a0011
+int string action_settings 0x7f0a000f
+int string app_name 0x7f0a000d
+int string hello_world 0x7f0a000e
 int style AppBaseTheme 0x7f0b0083
 int style AppTheme 0x7f0b0084
 int style TextAppearance_AppCompat_Base_CompactMenu_Dialog 0x7f0b0063

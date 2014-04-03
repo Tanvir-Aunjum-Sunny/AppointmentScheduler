@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="hosSpinner">
 
-    <string name="1 Mile">AppointmentScheduler</string>
-    <string name="2 Mile">Hello world!</string>
-    <string name="3 Mile">Settings</string>
+    <item name="1 Mile"></item>>
+    <item name="2 Mile">Hello world!</item>
+    <item name="3 Mile">Settings</item>
 
+    </string-array>
 </resources>
