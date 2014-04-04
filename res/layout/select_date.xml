@@ -39,6 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
+        android:onClick="info"
         android:text="Info" />
 
     <Button
@@ -57,6 +58,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_toRightOf="@+id/textView2"
+        android:onClick="future"
         android:text="Future" />
 
     <Spinner
@@ -91,6 +93,7 @@
         android:layout_alignParentBottom="true"
         android:layout_toLeftOf="@+id/button5"
         android:layout_toRightOf="@+id/button3"
+        android:onClick="past"
         android:text="Past" />
 
 </RelativeLayout>
