@@ -69,14 +69,6 @@
         android:layout_alignParentLeft="true"
         android:layout_marginBottom="16dp" 
         android:entries="@array/timeSpinner" />
-    
-            <Spinner
-        android:id="@+id/spinner1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
-        android:layout_marginTop="38dp"
-        android:entries="@array/dateSpinner" />
 
     <TextView
         android:id="@+id/textView3"
@@ -95,5 +87,13 @@
         android:layout_toRightOf="@+id/button3"
         android:onClick="past"
         android:text="Past" />
+
+    <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/textView2" 
+        android:layout_above="@id/textView3"/>
 
 </RelativeLayout>
